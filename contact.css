@@ -1,0 +1,14 @@
+.back{
+    text-decoration: none; 
+    position: relative; 
+    top:-100px; 
+    right:50px;
+}
+@media screen and (max-width: 800px){
+    .back{
+        text-decoration: none; 
+        position: relative; 
+        top:-100px; 
+        right: 0px;
+    }
+}
