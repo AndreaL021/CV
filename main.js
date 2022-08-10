@@ -26,7 +26,7 @@ let cv={
     competenze:{
         linguaggi:["HTML", "CSS", "JAVASCRIPT", "PHP", "JAVA"],
        framework:["Bootstrap", "Laravel", "Vue.js"],
-        altro:"- SEO e posizionamento motori di ricerca e Metodologie Agili, console git <br>- Sviluppo applicativi dinamici in Php, Laravel, O.O.P, database relazionali sql, Eloquent Orm"
+        altro:"- Metodologie Agili e console git <br>- Sviluppo applicativi dinamici in Php, Laravel, O.O.P, database relazionali sql, Eloquent Orm"
     },
     certificazioni:{
         titolo:"-Full Stack Web Developer",
