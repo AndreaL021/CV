@@ -12,7 +12,7 @@ let cv={
     },
     descrizione:"Sono un giovane aspirante programmatore con la passione per l’informatica fin da quando ero bambino."+
                 "<br>Dopo aver conseguito il diploma come operatore elettronico a giugno 2021, ho iniziato a formarmi come web developer, iniziando con il corso Bootcamp come sviluppatore Full Stack presso Aulab Hackademy."+
-                "<br>La mia passione e voglia di intraprendere e crescere nella carriera di programmatore mi hanno spinto a continuare la mia formazione e attualmente sto frequentando il corso Java Back-End con la compagnia Protom.",
+                "<br>La mia passione e voglia di intraprendere e crescere nella carriera di programmatore mi hanno spinto a continuare la mia formazione frequentando il corso Java Back-End con la compagnia Protom.",
     istruzione:{
         data_diploma:"Giugno 2021",
         diploma:"Istituto superiore IIS G.Marconi Imperia<br>Conseguimento diploma operatore elettronico 80/100",
